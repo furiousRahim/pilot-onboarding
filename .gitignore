@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Chroma vector database (rebuilt locally, no need to commit)
+week3/starter_code/chroma_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment files (never commit API keys)
+.env
+*.env
+
+# Large model files
+*.gguf
+*.bin
+*.safetensors
