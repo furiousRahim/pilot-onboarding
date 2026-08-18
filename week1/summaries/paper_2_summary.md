@@ -85,4 +85,4 @@ This paper is relevant to our project because we are also using AI to analyze fo
 ## 7. One Thing I Found Surprising or Didn't Understand
 > Write one honest observation — this keeps the reviews useful and honest.
 
-One thing I did not fully understand was how the authors could confidently compare the different error rates when the studies were using very different datasets and evaluation methods.
+One thing I did not fully understand was why the ICC values were so different between dishes. Since the same FoodIntech system was being used, I was curious whether the lower ICC values were mainly caused by the type, shape, or texture of the food, or by limitations in the model itself. I would also like to understand more of the math behind how the ICC was calculated, since the paper mentions using it but does not really explain the calculation in detail.
