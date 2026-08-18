@@ -69,9 +69,9 @@ These results show that the system worked well for a good number of the dishes, 
 ## 5. Limitations
 > What are the weaknesses or open questions the authors identify?
 
+One limitation was that the system did not work equally well for every type of food. The paper reported 63 dishes with ICC < 0.7, meaning they were not considered reproducible. Some of these foods were served in cups or tubes, while others had larger portions or shapes that made them harder for the camera and AI to estimate.
 
-
-
+Another limitation is that the study was done in a controlled hospital setting, so the results may be different with real patients, different lighting, plate positions, or more complex meals. The authors suggest that more testing is needed before using the system more broadly.
 
 ---
 
