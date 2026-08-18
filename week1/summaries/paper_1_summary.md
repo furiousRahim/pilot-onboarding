@@ -13,8 +13,9 @@ Hennessy
 ## 1. Problem Statement
 > What problem does this paper address? Why does it matter?
 
-This paper is a systematic review paper comparing fully automated AI based methods of dietary assessment from Digital Images (DI) to human assessors and to existing ground truths. It essentially looks at how similar are AI techniques to human beings or ground truths when analyzing DI of food for diet related features.
+This paper is a systematic review comparing fully automated AI-based methods of dietary assessment from Digital Images (DI) to human assessors and to existing ground truths. It essentially looks at how similar AI techniques are to human assessors or ground truths when analyzing DI of food for diet-related features.
 This matters because AI could make food tracking easier for researchers and ultimately reduce errors/bias from human assessors.
+
 ---
 
 ## 2. Dataset(s) Used
