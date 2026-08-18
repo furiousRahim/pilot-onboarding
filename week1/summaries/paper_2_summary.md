@@ -6,8 +6,11 @@ The FoodIntech Project
 **Authors:** Virginie Van Wymelbeke-Delannoy, Charles Juhel, Hugo Bole, Amadou-Khalilou Sow,
 Charline Guyot, Farah Belbaghdadi, Olivier Brousse and Michel Paindavoine
 Hennessy 
+
 **Year:**  2022
-**Venue / Journal:** Nutrients 
+
+**Venue / Journal:** Nutrients
+
 **File:**  https://www.mdpi.com/2072-6643/14/1/221
 
 ---
